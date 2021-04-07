@@ -4,6 +4,5 @@
 - 💞️ I’m looking to collaborate on Javascript Project
 - 📫 How to reach me on my Instagram Account Ichbindexterous.
 
-<!---
-Self-taught Web developer with fundamental knowledge of frontend web development and UI design. Seeking to Utilize broad educational background with excellent analytical, technical, programming skills to thrive as an entry- level Frontend Web Developer.
---->
+I am Self-taught Web developer with fundamental knowledge of frontend web development and UI design. Seeking to Utilize broad educational background with excellent analytical, technical, programming skills to thrive as an entry- level Frontend Web Developer.
+
