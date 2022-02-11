@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harshil Prajapati
 - 👀 I’m interested in Full Stack Web Development!
-- 🌱 I’m currently learning HTML5,CSS3, Javascript, Node.js, Express.js, React.js and MongoDB.
+- 🌱 I’m good with HTML5,CSS3, Javascript, Node.js, Express.js, React.js , Strapi and MongoDB.
 - 💞️ I’m looking to collaborate on as well as work on Javascript Project
 - 📫 Reach me on my E-mail Id: harshilprajapatiofficial@gmail.com .
 
